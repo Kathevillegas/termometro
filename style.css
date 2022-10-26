@@ -1,0 +1,15 @@
+*{
+    background-color:purple;
+    color: #fff;
+}
+
+.container{
+    text-align: center;
+    margin: top 200px; ;
+}
+
+input{
+    border-color: cyan;
+    box-shadow: 0px 5px 20px cyan ;
+
+}
